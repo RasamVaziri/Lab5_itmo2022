@@ -23,7 +23,7 @@
 | 7 | kinopoisk.dev |
 | 8 | pochta.ru |
 | 9 | rickandmortyapi.com |
-| 10 | open-notify.org |
+| 10 | open-notify.org |(мой вариант)
 
 **Допзадание**
 
